@@ -4,7 +4,7 @@ Welcome to the Library Management System project. This system aims to facilitate
 
 ## Getting Started
 
-To get started with the API, you can access the Swagger documentation [here](http://localhost:8081/swagger-ui/index.html#/). This documentation provides detailed information about the available endpoints and how to interact with them.
+To get started with the API, you can access the Swagger documentation after the project runs (http://localhost:8081/swagger-ui/index.html#/). This documentation provides detailed information about the available endpoints and how to interact with them.
 
 ## Technologies Used
 
